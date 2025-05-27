@@ -1,5 +1,7 @@
 # Noughts and Crosses (Tic-Tac-Toe)
 
+![Tic Tac Toe Winning Example](https://static.wikia.nocookie.net/board-games-galore/images/4/47/Tictactoe-winning-vector-639732.jpg/revision/latest?cb=20160711013756)
+
 A console-based Python 3.x game that simulates the classic two-player game "Noughts and Crosses" (Tic-Tac-Toe). This program allows two human players to play interactively, keeps track of their game history, and stores detailed game statistics for each session.
 
 ---
