@@ -1,0 +1,3 @@
+Total wins by Player X: 1
+Total wins by Player O: 0
+Total draws: 1
